@@ -1,0 +1,24 @@
+{
+  "name": "rabbit-async",
+  "version": "1.0.0",
+  "description": "rabbitmq connection, channel, exchange analysis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-anuj007/rabbit-async.git"
+  },
+  "keywords": [
+    "RabbitMQ",
+    "Node",
+    "amqplib"
+  ],
+  "author": "Anuj Kumar Singh - dev-anuj007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev-anuj007/rabbit-async/issues"
+  },
+  "homepage": "https://github.com/dev-anuj007/rabbit-async#readme"
+}
